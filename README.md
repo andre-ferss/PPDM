@@ -1,2 +1,1 @@
-# PPDM
-Academic repository for Kotlin studies
+![kotlin](https://github.com/andre-ferss/PPDM/blob/main/kotlin.png)
